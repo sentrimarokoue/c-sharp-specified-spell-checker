@@ -1,0 +1,10 @@
+C:\Users\flyinghuman1\Desktop\ekzamen\29_1\SpellCheck\bin\Debug\SpellCheck.exe.config
+C:\Users\flyinghuman1\Desktop\ekzamen\29_1\SpellCheck\bin\Debug\SpellCheck.exe
+C:\Users\flyinghuman1\Desktop\ekzamen\29_1\SpellCheck\bin\Debug\SpellCheck.pdb
+C:\Users\flyinghuman1\Desktop\ekzamen\29_1\SpellCheck\obj\Debug\SpellCheck.csprojResolveAssemblyReference.cache
+C:\Users\flyinghuman1\Desktop\ekzamen\29_1\SpellCheck\obj\Debug\SpellCheck.Properties.Resources.resources
+C:\Users\flyinghuman1\Desktop\ekzamen\29_1\SpellCheck\obj\Debug\SpellCheck.csproj.GenerateResource.Cache
+C:\Users\flyinghuman1\Desktop\ekzamen\29_1\SpellCheck\obj\Debug\SpellCheck.exe
+C:\Users\flyinghuman1\Desktop\ekzamen\29_1\SpellCheck\obj\Debug\SpellCheck.pdb
+C:\Users\flyinghuman1\Desktop\ekzamen\29_1\SpellCheck\obj\Debug\SpellCheck.Form1.resources
+C:\Users\flyinghuman1\Desktop\ekzamen\29_1\SpellCheck\obj\Debug\SpellCheck.g.resources
